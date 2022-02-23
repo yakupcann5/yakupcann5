@@ -13,3 +13,8 @@
 - 💬 Ask me about Everything
 - 📫 How to reach me: yerkan884@gmail.com
 
+<br>
+
+![Yakup's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakupcann5&show_icons=true&theme=radical)
+
+
