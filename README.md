@@ -2,6 +2,8 @@
 
 <h1>Welcome to my Personnel Github Account...</h1> 
 
+### 📫 How to reach me  :
+
 <img src = 'https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b76111a727911e72bb786a6a6b69b79370e9ba9664904&rid=giphy.gif&ct=g' width= 300  align='right' style=""/>
 
 
@@ -23,11 +25,21 @@
 - 📫 How to reach me: yerkan884@gmail.com
 
 <br>
+ 
+ 
+ ## Programming Languages
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/kotlin-323330?style=for-the-badge&logo=kotlin&logoColor=F7DF1E)
+![ANDROİD](https://img.shields.io/badge/android-DD0031?style=for-the-badge&logo=android&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+ 
+ ### 📌 GitHub Stats And Top Languages :
+
 
 ![Yakup's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakupcann5&show_icons=true&theme=radical)
- <br/>
-  <br/>
-
-![Yakup's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupcann5&show_icons=true&theme=radical)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakupcann5&layout=compact&theme=tokyonight)](https://github.com/yakupcann5/github-readme-stats)
 
 
