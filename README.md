@@ -11,8 +11,6 @@
 <a href="mailto: yerkan884@gmail.com"><img src="https://img.shields.io/badge/-email-1d76b0?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/yakup-can-erkan-7a163a225/"><img src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://www.instagram.com/yakupcann5/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
-<a href="yerkan884@gmail.com"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>  
-<a href="jv2anv4g79u1dvn5cy0bt2ajj"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>  
 
 
 </p>
